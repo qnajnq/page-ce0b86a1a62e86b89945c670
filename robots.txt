@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.ezw88.cn/sitemap.xml
